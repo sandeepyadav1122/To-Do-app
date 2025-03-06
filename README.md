@@ -25,7 +25,7 @@ To set up the project locally, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/sandeepyadav1122/To-Do-app.git
 
 # Navigate into the project directory
 cd modern-todo-app
@@ -138,7 +138,8 @@ module.exports = {
 
 ## Screenshots
 
-https://github.com/sandeepyadav1122/To-Do-app/blob/main/ScreenShot.png
+
+![Image](https://github.com/user-attachments/assets/fad1cca1-b783-4046-8308-0feec698c68f)
 
 ## Use Cases
 
@@ -156,7 +157,4 @@ https://github.com/sandeepyadav1122/To-Do-app/blob/main/ScreenShot.png
 
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## Contact
-
-For any questions, reach out to [Your Name](mailto\:your-email@example.com).
 
