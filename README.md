@@ -19,24 +19,6 @@ A modern, minimalistic Todo App built with Next.js, React, Tailwind CSS, and Typ
 - [Framer Motion](https://www.framer.com/motion/) (For animations)
 - [Lucide React](https://lucide.dev/) (For icons)
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-
-The app will be available at `http://localhost:3000/`.
-
-## Folder Structure
-
-```
-modern-todo-app/
-├── components/      # Reusable UI components
-├── pages/           # Next.js pages (Routing)
-├── styles/          # Global CSS and Tailwind setup
-├── public/          # Static assets
-├── package.json     # Dependencies and scripts
-└── tsconfig.json    # TypeScript configuration
-```
 
 ## Code Explanation
 
