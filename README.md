@@ -23,24 +23,6 @@ A modern, minimalistic Todo App built with Next.js, React, Tailwind CSS, and Typ
 
 To set up the project locally, follow these steps:
 
-```sh
-# Clone the repository
-git clone https://github.com/sandeepyadav1122/To-Do-app.git
-
-# Navigate into the project directory
-cd modern-todo-app
-
-# Install dependencies
-npm install
-```
-
-## Running the Project
-
-Start the development server:
-
-```sh
-npm run dev
-```
 
 The app will be available at `http://localhost:3000/`.
 
